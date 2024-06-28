@@ -58,7 +58,7 @@ Programming Language: Python
 
 Libraries: Pandas, Numpy, Matplotlib, Sklearn, seaborn, TensorFlow, and Keras.
 
-Processes: Exploratory Data Analysis (EDA), Data Visualization, one hot encoding, Scaling, Machine Learning, Artificial Neural Network (ANN)
+
 
 ## Model Evaluation and Result
 
